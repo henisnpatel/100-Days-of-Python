@@ -5,4 +5,4 @@ table.field_names = ["Name", "Age", "City"]
 
 print(table)
 
-print("Adding rows to the table...")
+print("Adding rows to the table...") 
